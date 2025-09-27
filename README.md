@@ -72,11 +72,9 @@ Meta-Lead-Tracker/
 
 ## 🖼️ Screenshots / Demo
 
-Frontend Dashboard
+<img width="1676" height="763" alt="image" src="https://github.com/user-attachments/assets/5874aa9a-791c-4fe2-832b-01946ae819ad" />
 
-Leads Table
-
-Fetch Latest Leads
+<img width="1919" height="808" alt="image" src="https://github.com/user-attachments/assets/740e5e6c-06e4-4de4-bd29-d59f3c892d49" />
 
 ---
 ## 📖 Why this project is useful?
